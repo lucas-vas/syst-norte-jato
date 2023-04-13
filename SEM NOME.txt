@@ -1,0 +1,7 @@
+Código de cores:
+
+#054f77 (Azul padrão do Cliente)
+
+Fonte utilizada como padrão:
+
+Century Gothic*
